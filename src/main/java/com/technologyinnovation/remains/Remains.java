@@ -9,7 +9,7 @@ public class Remains implements ModInitializer {
     public static final Logger LOGGER = LogManager.getLogger("firstmod");
     @Override
     public void onInitialize() {
-        LOGGER.info("Hello Fabric world!");
+        LOGGER.info("Hello Fabric world!1");
 
     }
 }
